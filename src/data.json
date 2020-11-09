@@ -1,0 +1,17 @@
+[
+    {
+        "name": "sonoo",
+        "salary": 56000,
+        "married": true
+    },
+    {
+        "name": "Monno",
+        "salary": 56000000,
+        "married": false
+    },
+    {
+        "name": "Ranno",
+        "salary": 56000,
+        "married": false
+    }
+]
